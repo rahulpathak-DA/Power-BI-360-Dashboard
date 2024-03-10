@@ -15,15 +15,11 @@ Project Highlights:
 
 ############
 
-Finance View:
-•	Obtain Profit and Loss statements for any customer, product, country, or their aggregations across various time periods and more.
-Sales View:
-•	Analyze customer performance through key metrics such as Net Sales and Gross Margin, presented in a profitability and growth matrix.
-Marketing View 
-Supply Chain View:
-•	Assess Forecast Accuracy, Net Error, and risk profiles for products, segments, categories, customers, etc.
-Executive View:
-•	A high-level dashboard tailored for executives, consolidating top insights across all dimensions of the business.
+# Finance View: •	Obtain Profit and Loss statements for any customer, product, country, or their aggregations across various time periods and more.
+# Sales View:•	Analyze customer performance through key metrics such as Net Sales and Gross Margin, presented in a profitability and growth matrix.
+# Marketing View  
+# Supply Chain View:•	Assess Forecast Accuracy, Net Error, and risk profiles for products, segments, categories, customers, etc.
+# Executive View: A high-level dashboard tailored for executives, consolidating top insights across all dimensions of the business.
 Loaded with Key Performance Indicators (KPIs):
 •	Net Sales
 •	Gross Margin Percentage
