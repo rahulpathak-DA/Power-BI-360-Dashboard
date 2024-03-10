@@ -15,11 +15,13 @@ Project Highlights:
 
 ############
 _[Dasboard](https://github.com/rahulpathak-DA/Power-BI-360-Dashboard/blob/main/Screenshot%202024-03-09%20233839.pdf)_
-# Finance View: •	Obtain Profit and Loss statements for any customer, product, country, or their aggregations across various time periods and more.
+# Finance View: •	Obtain Profit and Loss statements for any customer, product, country, or their aggregations across various time periods and more.  Page 4 _[Dasboard](https://github.com/rahulpathak-DA/Power-BI-360-Dashboard/blob/main/Screenshot%202024-03-09%20233839.pdf)_
 # Sales View:•	Analyze customer performance through key metrics such as Net Sales and Gross Margin, presented in a profitability and growth matrix.
-# Marketing View  
-# Supply Chain View:•	Assess Forecast Accuracy, Net Error, and risk profiles for products, segments, categories, customers, etc.
-# Executive View: A high-level dashboard tailored for executives, consolidating top insights across all dimensions of the business.
+# Marketing View  Page 3 _[Dasboard](https://github.com/rahulpathak-DA/Power-BI-360-Dashboard/blob/main/Screenshot%202024-03-09%20233839.pdf)_
+# Supply Chain View:•	Assess Forecast Accuracy, Net Error, and risk profiles for products, segments, categories, customers, etc. Page 
+ _[Dasboard](https://github.com/rahulpathak-DA/Power-BI-360-Dashboard/blob/main/Screenshot%202024-03-09%20233839.pdf)_
+# Executive View: A high-level dashboard tailored for executives, consolidating top insights across all dimensions of the business. Page 1_[Dasboard](https://github.com/rahulpathak-DA/Power-BI-360-Dashboard/blob/main/Screenshot%202024-03-09%20233839.pdf)_
+
 Loaded with Key Performance Indicators (KPIs):
 •	Net Sales
 •	Gross Margin Percentage
