@@ -14,7 +14,7 @@ Project Highlights:
 •	Designed detailed dashboards featuring specific views.
 
 ############
-
+_[Dasboard](https://github.com/rahulpathak-DA/Power-BI-360-Dashboard/blob/main/Screenshot%202024-03-09%20233839.pdf)_
 # Finance View: •	Obtain Profit and Loss statements for any customer, product, country, or their aggregations across various time periods and more.
 # Sales View:•	Analyze customer performance through key metrics such as Net Sales and Gross Margin, presented in a profitability and growth matrix.
 # Marketing View  
