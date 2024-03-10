@@ -11,7 +11,10 @@ Project Highlights:
 •	Conducted data validation and transformation processes
 •	Implemented calculated columns for enhanced analysis
 •	Employed data modeling techniques for comprehensive insights
-•	Designed detailed dashboards featuring specific views:
+•	Designed detailed dashboards featuring specific views.
+
+############
+
 Finance View:
 •	Obtain Profit and Loss statements for any customer, product, country, or their aggregations across various time periods and more.
 Sales View:
