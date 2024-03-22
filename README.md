@@ -1,5 +1,4 @@
 # Power-BI-360-Dashboard
-This is a Capstone project of  Power BI course by codebasics
 
 Project Short Info: 
 AtliQ Hardwares, a swiftly growing consumer electronics company, is dedicated to bolstering its competitive edge by shifting from Excel-based reporting to a more sophisticated analytics solution through Power BI. The central goal is to unearth valuable insights and enable well-informed decision-making.
